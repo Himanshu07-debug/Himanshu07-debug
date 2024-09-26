@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu07-debug&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu07-debug" /> </p>
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **MERN , DSA**
 
 - 📫 How to reach me **himanshusharma2002.2000@gmail.com**
 
